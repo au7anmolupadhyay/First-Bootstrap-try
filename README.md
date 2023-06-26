@@ -1,1 +1,1 @@
-# First-Bootstrap-try
+The pure front-end car website built using Bootstrap is a visually appealing and user-friendly platform. With its responsive design, it seamlessly adapts to different screen sizes: [Car Website](https://au7anmolupadhyay.github.io/First-Bootstrap-try/).
